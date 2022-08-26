@@ -21,6 +21,7 @@ Bank Client Data:
 6. balance: average yearly balance, in euros (numeric)
 7. housing: has housing loan? (binary) Values: "yes”, “no"
 8. loan: has personal loan? (binary) Values: "yes”, “no"
+
 Related With The Last Contact Of The Current Campaign:
 9. contact: contact communication type (categorical) Values: "unknown”, “telephone”, 
 “cellular"
@@ -28,6 +29,7 @@ Related With The Last Contact Of The Current Campaign:
 11. month: last contact month of year (categorical) Values: "jan", "feb", "mar", ..., "nov", 
 "dec"
 12. duration: last contact duration, in seconds (numeric)
+
 Other Attributes:
 13. campaign: number of contacts performed during this campaign and for this client 
 (numeric) Note: Includes last contact
@@ -37,5 +39,6 @@ previous campaign (numeric) Note: ‘-1’ means client was not previously conta
 (numeric)
 16. poutcome: outcome of the previous marketing campaign (categorical) Values: 
 "unknown”, “other”, “failure”, “success"
+
 OUTPUT/TARGET VARIABLE:
 17. y - has the client subscribed a term deposit? (binary) Values: "yes”, “no"
