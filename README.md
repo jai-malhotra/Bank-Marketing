@@ -1,5 +1,5 @@
 # Bank-Marketing
-DATASET OVERVIEW
+DATASET OVERVIEW \
 The data is related with direct marketing campaigns of a Portuguese banking institution. We 
 propose a data mining approach to forecast the success of the telemarketing campaign. The 
 classification goal is to predict if the client will subscribe a term deposit.
