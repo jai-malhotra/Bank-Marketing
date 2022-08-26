@@ -45,3 +45,5 @@ previous campaign (numeric) Note: ‘-1’ means client was not previously conta
 OUTPUT/TARGET VARIABLE:
 
 17. y - has the client subscribed a term deposit? (binary) Values: "yes”, “no"
+
+<b> Skills & Tools: </b> Python, Numpy, Pandas, Matplotlib(Pyplot), Seaborn, Exploratory Data Analysis, Data Cleaning and PreProcessing, Statistics for Machine Learning, Classification Analysis (Decision Trees, Bagging and Boosting Techniques- Random Forest, AdaBoost, Gradient Boost, XGBoost)
