@@ -23,6 +23,7 @@ Bank Client Data:
 8. loan: has personal loan? (binary) Values: "yes”, “no"
 
 Related With The Last Contact Of The Current Campaign:
+
 9. contact: contact communication type (categorical) Values: "unknown”, “telephone”, 
 “cellular"
 10. day: last contact day of the month (numeric)
@@ -31,6 +32,7 @@ Related With The Last Contact Of The Current Campaign:
 12. duration: last contact duration, in seconds (numeric)
 
 Other Attributes:
+
 13. campaign: number of contacts performed during this campaign and for this client 
 (numeric) Note: Includes last contact
 14. pdays: number of days that passed by after the client was last contacted from a 
@@ -41,4 +43,5 @@ previous campaign (numeric) Note: ‘-1’ means client was not previously conta
 "unknown”, “other”, “failure”, “success"
 
 OUTPUT/TARGET VARIABLE:
+
 17. y - has the client subscribed a term deposit? (binary) Values: "yes”, “no"
